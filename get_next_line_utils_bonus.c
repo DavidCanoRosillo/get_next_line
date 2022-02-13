@@ -1,15 +1,15 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   get_next_line_utils.c                              :+:      :+:    :+:   */
+/*   get_next_line_utils_bonus.c                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
 /*   By: dcano-ro <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2022/02/13 13:59:53 by dcano-ro          #+#    #+#             */
-/*   Updated: 2022/02/13 14:10:59 by dcano-ro         ###   ########.fr       */
+/*   Created: 2022/02/13 18:50:19 by dcano-ro          #+#    #+#             */
+/*   Updated: 2022/02/13 18:52:03 by dcano-ro         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-#include "get_next_line.h"
+#include "get_next_line_bonus.h"
 
 void	*ft_calloc(size_t bytes)
 {
